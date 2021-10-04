@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+/*h1{
+    color:purple;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:250%;
+}
+/*table {
+  color: mediumpurple;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 200%;
+  border-collapse:collapse;
+}
+td{
+    border: 1px solid black;
+}
+    */
+.bolClass{
+    font-weight:bold;
+}
+.italicsClass{
+    font-style:italic;
+}
+.colorClass{
+    color:red;
+}
